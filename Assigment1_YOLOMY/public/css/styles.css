@@ -1,0 +1,139 @@
+/* .navbar-light {
+    background: rgba(255, 255, 255, 0.9);
+} */
+
+.pageHeading {
+    background-image: url("../images/backgrounds/hero.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 3rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+header.masthead {
+    padding-top: 6rem;
+    padding-bottom: 10.5rem;
+    text-align: center;
+    color: #fff;
+}
+
+header.masthead .masthead-logo {
+    margin-top: 2rem;
+}
+
+header.masthead .masthead-heading {
+    margin-top: 4rem;
+    font-size: 2.9rem;
+    line-height: 2.9rem;
+    margin-bottom: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header.masthead .masthead-mouse {
+    margin-top: 5rem;
+}
+
+.page-section {
+    padding: 2rem 0;
+}
+
+.product-categories {
+    padding: 2rem 0;
+    background-color: rgb(161, 150, 150);
+}
+
+.form-check-label {
+    padding: 0 1rem;
+}
+
+#categories-btn {
+    background-color: rgb(105, 39, 39);
+    color: white;
+    border: 0;
+}
+
+.product-grid {
+    padding: 8rem 0;
+}
+
+.product-item-active {
+    border: 0;
+    background-color: rgb(238, 234, 234);
+    border: 5px solid rgb(153, 110, 89);
+    /* padding: 2rem; */
+    height: auto;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+
+.product-item {
+    border: 0;
+    background-color: rgb(238, 234, 234);
+    /* padding: 2rem; */
+    height: auto;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+
+.product_name {
+    color: rgb(153, 110, 89);
+}
+
+.icon_green {
+    color: green;
+}
+
+.icon_blue {
+    color: rgb(48, 13, 206);
+}
+
+.icon_black {
+    color: rgb(35, 37, 35);
+}
+
+.about-section {
+    padding: 2rem 0;
+    background-image: url("../images/backgrounds/about.jpg");
+}
+
+.about-para {
+    font-size: 20px;
+}
+
+.sale-section {
+    background-color: rgb(101, 101, 102);
+}
+
+.twitter-icon {
+    color: rgb(48, 13, 206);
+}
+
+.footer-section {
+    background-color: rgb(75, 75, 77);
+}
+
+.footer-para {
+    font-size: 19px;
+    color: rgb(216, 204, 204);
+}
+
+.footer-text {
+    color: rgb(216, 204, 204);
+}
+
+.footer1,
+.footer3 {
+    padding: 6rem 0;
+}
+
+.footer2 {
+    padding: 2rem 0;
+}
